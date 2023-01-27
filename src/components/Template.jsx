@@ -1,7 +1,13 @@
+import styles from './template.module.css'
 
 export default function App({ company }) {
 
     return (
-        <div>{company.title}</div>
+        <div className={styles.template}>
+            <header className={styles.header}>
+
+            </header>
+            {company.title}
+        </div>
     )
 }
