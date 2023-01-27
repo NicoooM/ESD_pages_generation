@@ -1,7 +1,8 @@
 import data from "../src/db.json";
+import Template from '../src/components/Template'
 
 export default function Post({ company }) {
-  return <div>{company.title}</div>;
+  return <Template company={company}></Template>
 }
 
 // Generates `/posts/1` and `/posts/2`
