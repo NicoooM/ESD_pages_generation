@@ -4,7 +4,9 @@
     "sector": "IT",
     "location": "Paris",
     "mobile": "06 00 00 00 00",
-    "logo": "https://www.capgemini.com/wp-content/uploads/2017/01/capgemini-logo.png"
+    "logo": "https://www.capgemini.com/wp-content/uploads/2017/01/capgemini-logo.png",
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFFFFF"
   },
   {
     "title": "MCDO"
