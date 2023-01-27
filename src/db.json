@@ -1,14 +1,29 @@
 [
   {
-    "title": "CAPGEMINI",
+    "title": "Sony",
     "sector": "IT",
-    "location": "Paris",
+    "location": "Al-Makhtoum Hall B24",
     "mobile": "06 00 00 00 00",
-    "logo": "https://www.capgemini.com/wp-content/uploads/2017/01/capgemini-logo.png",
-    "primaryColor": "#000000",
-    "secondaryColor": "#FFFFFF"
+    "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F04%2FSony-Logo-1961-1962.png&f=1&nofb=1&ipt=ca6ea954c69bcc7ac7901cef6112784c5060542fbd80a37ce79c12bbcd8c6858&ipo=images",
+    "backgroundColor": "#FFFFFF",
+    "color": "#000000"
   },
   {
-    "title": "MCDO"
+    "title": "Samsung",
+    "sector": "IT",
+    "location": "Al-Makhtoum Hall C32",
+    "mobile": "06 00 00 00 00",
+    "logo": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/gnb-desktop-120x32.png",
+    "backgroundColor": "#FFFFFF",
+    "color": "#01062c"
+  },
+  {
+    "title": "Google",
+    "sector": "IT",
+    "location": "Al-Makhtoum Hall A12",
+    "mobile": "06 00 00 00 00",
+    "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2014%2F09%2Fgoogle-logo-2.png&f=1&nofb=1&ipt=6c33acddeec635687e511819a6715ab264ad4fdb06b2a648544e3ee0e7bda69c&ipo=images",
+    "backgroundColor": "#FFFFFF",
+    "color": "#202125"
   }
 ]
