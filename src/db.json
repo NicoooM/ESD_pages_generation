@@ -1,6 +1,6 @@
 [
   {
-    "title": "Sony",
+    "title": "sony",
     "sector": "IT",
     "location": "Al-Makhtoum Hall B24",
     "mobile": "06 00 00 00 00",
@@ -9,7 +9,7 @@
     "color": "#000000"
   },
   {
-    "title": "Samsung",
+    "title": "samsung",
     "sector": "IT",
     "location": "Al-Makhtoum Hall C32",
     "mobile": "06 00 00 00 00",
@@ -18,7 +18,7 @@
     "color": "#01062c"
   },
   {
-    "title": "Google",
+    "title": "google",
     "sector": "IT",
     "location": "Al-Makhtoum Hall A12",
     "mobile": "06 00 00 00 00",

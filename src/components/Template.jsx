@@ -1,5 +1,11 @@
 import styles from './template.module.css'
 
+const transformTitle = (title) => {
+    const newTitle = title
+    newTitle[0].toUpperCase()
+    return newTitle
+}
+
 export default function App({ company }) {
 
     return (
